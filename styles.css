@@ -1,0 +1,33 @@
+.center, h1, h2 {
+    justify-self: center;
+}
+
+.show--paragraph {
+    display: none;
+}
+
+p {
+    font-size: 30px;
+    font-style: italic;
+}
+
+.drag-and-drop {
+    display: flex;
+}
+
+.draggable {
+    background-color: bisque;
+    margin-right: 10px;
+    height: 380px;
+    width: 380px;
+}
+
+.droppable {
+    border: 1px dotted #aaa;
+    height: 450px;
+    width: 450px;
+}
+
+.droppable-highlight {
+    background-color: darkgray;
+}
