@@ -31,3 +31,7 @@ p {
 .droppable-highlight {
     background-color: darkgray;
 }
+
+.post-body {
+    font-size: 1em;
+}
